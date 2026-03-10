@@ -1,0 +1,16 @@
+{
+    "name": "Services",
+    "rootNamespace": "Sources.Runtime.Services",
+    "references": [
+        "GUID:5ed02fc40b563280a9c25ac76a4dd7f4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

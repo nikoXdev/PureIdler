@@ -19,3 +19,9 @@ MonoBehaviour:
     sceneHandle: 0
     typeName: UnityEditor.SceneAsset, UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
+  - guid: cba10bfb8232df725a8f3f57480118fc
+    name: GameData
+    path: Assets/_Project/Data/GameData.asset
+    sceneHandle: 0
+    typeName: Sources.Runtime.Gameplay.Root.GameData, Gameplay, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null

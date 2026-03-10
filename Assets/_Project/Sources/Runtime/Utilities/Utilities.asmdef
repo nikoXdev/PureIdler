@@ -1,9 +1,7 @@
 {
-    "name": "Input",
-    "rootNamespace": "",
-    "references": [
-        "GUID:75469ad4d38634e559750d17036d5f7c"
-    ],
+    "name": "Utilities",
+    "rootNamespace": "Sources.Runtime.Utilities",
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
